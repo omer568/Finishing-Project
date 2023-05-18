@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/rotem/.arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/rotem/.arduino15/packages/arduino/hardware/avr/1.8.6/variants/standard"
+  },
+  {
+    "Sourcefile": "/home/rotem/Desktop/Programming/Arduino C++/Finishing-Project/build/sketch/Finishing-Project.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
