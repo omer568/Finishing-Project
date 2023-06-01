@@ -5,7 +5,7 @@
 #ifdef __AVR__
 #include <avr/power.h>
 #endif
-
+//omer were here 
 #define BTN_PIN 2
 #define STCK_X_PIN A0
 #define STCK_Y_PIN A1
